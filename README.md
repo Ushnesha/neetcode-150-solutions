@@ -40,20 +40,11 @@ Python For Beginners/python-hello-world/submission-0.py
 
 ---
 
-## Supported languages
+## Coding languages
 
 | Language | Extension |
 |---|---|
 | Python | `.py` |
-| JavaScript | `.js` |
-| TypeScript | `.ts` |
-| Java | `.java` |
-| C++ | `.cpp` |
-| C# | `.cs` |
-| Go | `.go` |
-| Rust | `.rs` |
-| Kotlin | `.kt` |
-| Swift | `.swift` |
 | SQL | `.sql` |
 
 ---
