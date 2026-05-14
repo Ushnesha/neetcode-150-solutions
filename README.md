@@ -6,15 +6,15 @@
 
 ## What is this?
 
-[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
+[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with my accepted (or all) solutions using the **GitHub Sync** feature.
 
 ---
 
 ## How GitHub Sync works
 
-1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
-2. **Auto-commit** — every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
-3. **Bulk Sync** — push all your past solutions at once from the GitHub settings page.
+1. **Connect the GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
+2. **Auto-commit** — every time I submit a solution on NeetCode, it is pushed here automatically (configurable by status).
+3. **Bulk Sync** — push all my past solutions at once from the GitHub settings page.
 4. **Manual sync** — from the submission history panel on any problem page, sync or remove individual submissions.
 
 ---
@@ -60,7 +60,7 @@ Python For Beginners/python-hello-world/submission-0.py
 
 ## Settings
 
-Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
+Manage all sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
 
 - **Auto-commit toggle** — enable or disable automatic commits on submission
 - **Status filter** — sync all submissions or accepted only
